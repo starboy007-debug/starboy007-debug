@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on 3D game development with unity3D
 
-🌱 I’m currently learning Data science
+🌱 I’m currently learning BlockChain
 
 📫 How to reach me: pavansasane38@gmail.com
 
